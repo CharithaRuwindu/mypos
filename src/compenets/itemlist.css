@@ -1,9 +1,4 @@
-#root {
-    max-width: 1280px;
-    margin: 0 auto;
-    padding: 2rem;
-    text-align: center;
-  }
+
   
   .logo {
     height: 6em;
@@ -18,11 +13,17 @@
     filter: drop-shadow(0 0 2em #61dafbaa);
   }
   .splideimg{
-    max-width: 345px;
-    max-height: 200px;
+    max-width: 145px;
+    max-height: 100px;
   }
   .project_image_container{
-    max-height: 200px;
+    max-height: 100px;
+    max-width: 145px;
+  }
+  .pagination_container{
+    margin-left: 50%;
+    transform: translate(-25%);
+    margin-top: 5%;
   }
   @keyframes logo-spin {
     from {

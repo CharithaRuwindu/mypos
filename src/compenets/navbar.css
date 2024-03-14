@@ -1,0 +1,9 @@
+.content{
+    padding-top: 1%;
+    display: flex;
+}
+.profilepic{
+    border-radius: 50%;
+    max-height: 40px;
+    max-width: 40px;
+}

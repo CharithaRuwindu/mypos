@@ -15,6 +15,110 @@
             "assets/orange1.jpg",
             "assets/orange2.jpg"
         ]
+    },
+    {
+        "name": "Orange",
+        "color": "Orange",
+        "images": [
+            "assets/orange1.jpg",
+            "assets/orange2.jpg"
+        ]
+    },
+    {
+        "name": "Mango",
+        "color": "Yellow",
+        "images": [
+            "assets/mango1.jpg",
+            "assets/mango2.jpg"
+        ]
+    },
+    {
+        "name": "Orange",
+        "color": "Orange",
+        "images": [
+            "assets/orange1.jpg",
+            "assets/orange2.jpg"
+        ]
+    },
+    {
+        "name": "Mango",
+        "color": "Yellow",
+        "images": [
+            "assets/mango1.jpg",
+            "assets/mango2.jpg"
+        ]
+    },
+    {
+        "name": "Orange",
+        "color": "Orange",
+        "images": [
+            "assets/orange1.jpg",
+            "assets/orange2.jpg"
+        ]
+    },
+    {
+        "name": "Mango",
+        "color": "Yellow",
+        "images": [
+            "assets/mango1.jpg",
+            "assets/mango2.jpg"
+        ]
+    },
+    {
+        "name": "Orange",
+        "color": "Orange",
+        "images": [
+            "assets/orange1.jpg",
+            "assets/orange2.jpg"
+        ]
+    },
+    {
+        "name": "Orange",
+        "color": "Orange",
+        "images": [
+            "assets/orange1.jpg",
+            "assets/orange2.jpg"
+        ]
+    },
+    {
+        "name": "Mango",
+        "color": "Yellow",
+        "images": [
+            "assets/mango1.jpg",
+            "assets/mango2.jpg"
+        ]
+    },
+    {
+        "name": "Orange",
+        "color": "Orange",
+        "images": [
+            "assets/orange1.jpg",
+            "assets/orange2.jpg"
+        ]
+    },
+    {
+        "name": "Mango",
+        "color": "Yellow",
+        "images": [
+            "assets/mango1.jpg",
+            "assets/mango2.jpg"
+        ]
+    },
+    {
+        "name": "Orange",
+        "color": "Orange",
+        "images": [
+            "assets/orange1.jpg",
+            "assets/orange2.jpg"
+        ]
+    },
+    {
+        "name": "Mango",
+        "color": "Yellow",
+        "images": [
+            "assets/mango1.jpg",
+            "assets/mango2.jpg"
+        ]
     }
 ]
 }
