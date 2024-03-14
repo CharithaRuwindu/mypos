@@ -1,0 +1,28 @@
+.actionrightbtn{
+    width: 140px;
+    height: 40px;
+    border: none;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 1px;
+    background-color: yellow;
+    color: black;
+    border-radius: 10px;
+}
+.btn{
+    width: 140px;
+    height: 40px;
+    border: none;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 1px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+}
+#cash{
+    background-color: rgb(11, 134, 52);
+}
+button{
+    cursor: pointer;
+}

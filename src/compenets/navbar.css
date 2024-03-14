@@ -2,6 +2,23 @@
     padding-top: 1%;
     display: flex;
 }
+.date_container{
+    display: flex;
+    color: black;
+}
+.posname{
+    text-align: center;
+    font-size: large;
+}
+.profile_container{
+    display: flex;
+    float: right;
+    margin-right: 5%;
+}
+.myname{
+    margin-right: 5%;
+    font-weight: 600;
+}
 .profilepic{
     border-radius: 50%;
     max-height: 40px;
